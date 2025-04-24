@@ -1,0 +1,14 @@
+{
+"id": "soup",
+"name": "Soup",
+"author": ["Coo29"],
+"description": "Soup.",
+"prefix": "Soup",
+"main_file": "Soup.lua",
+"display_name": "Soup",
+"version": "1.0",
+"dependencies": [
+    "Steamodded (>=1.*)",
+    "Lovely (>=0.6)"
+]
+}
