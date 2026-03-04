@@ -6,9 +6,9 @@
 "prefix": "Soup",
 "main_file": "Soup.lua",
 "display_name": "Soup",
-"version": "1.0",
+"version": "1.01",
 "dependencies": [
-    "Steamodded (>=1.*)",
+    "Steamodded",
     "Lovely (>=0.6)"
 ]
 }

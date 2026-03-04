@@ -8,3 +8,9 @@ SMODS.Atlas{
 	frames = 4,
     prefix_config = {key = false}
 }
+SMODS.Atlas{
+    key = "modicon",
+    path = "modicon.png",
+    px = 56,
+    py = 30
+}
